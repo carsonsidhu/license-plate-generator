@@ -41,7 +41,6 @@ Project is: _complete_
 
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by the Engineering Physics department at the University of British Columbia, for a class project in machine learning
 
 
